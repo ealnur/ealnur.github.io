@@ -16,7 +16,7 @@ div {
   height: 40px;
   width: 100%;
   background-color: #ffcccc;
-  position: fixed;
+  position: relative;
   z-index: 1;
 }
 
@@ -54,7 +54,7 @@ div {
   margin-top: 6px;
   margin-left: 55px;
   width: 75%;
-  height: 1000px;
+  height: 100%;
 }
 
 p,
