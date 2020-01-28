@@ -30,6 +30,7 @@ div {
   background-color: #ffcccc;
   clear: both;
   position: relative;
+
 }
 
 .left {
@@ -37,7 +38,7 @@ div {
   width: 45px;
   background-color: #e0eeee;
   float: left;
-  position: fixed;
+  position: inherit;
 }
 
 .right {
