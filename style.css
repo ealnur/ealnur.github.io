@@ -13,6 +13,7 @@ body, html {
   display: flex;
   align-items: center;
   justify-content: center;
+  width: 100%;
   margin: auto;
 }
 
@@ -102,7 +103,7 @@ body, html {
   margin: 0 30px;
   transform: rotate(-4deg);
   box-shadow: 0 0 4px rgba(0, 0, 0, .3);
-  width: 30%;
+  width: 20%;
   max-width: 220px
 }
 
